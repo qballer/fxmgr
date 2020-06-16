@@ -264,3 +264,8 @@ with it.
 - redis adapter implements only dataType `strings`. Need to support `hashes`,
   `lists`, `sets`, and `sortedSets`
 - add an sql adapter implementation, probably based on `knex`
+
+
+## License
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fosher%2Ffxmgr.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fosher%2Ffxmgr?ref=badge_large)
